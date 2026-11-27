@@ -1,3 +1,5 @@
+# Day 13 Lab — 2A202604046 - Hoàng Mạnh Hùng
+
 <p align="center">
   <img src="docs/assets/hero.png" alt="Day 13 Lab: đọc point cloud VF và vẽ cuboid 3D đầu tiên" width="100%">
 </p>
